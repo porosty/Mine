@@ -1,7 +1,7 @@
 {
   "pages": [    
-      "page/oasis/honghua",
-      "page/oasis/porosty/porosty"
+      "page/homePage/homePage",
+      "page/homePage/porosty/porosty"
 
   ],
   "window": {
