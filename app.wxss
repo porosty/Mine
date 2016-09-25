@@ -210,6 +210,4 @@ checkbox, radio{
     padding-left: 0;
     padding-right: 0;
 }
-.section__ctn{
 
-}

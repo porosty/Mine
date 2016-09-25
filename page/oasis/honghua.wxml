@@ -1,0 +1,23 @@
+<view class="honghua">
+    <view class="head">
+        <view class="title">泓华医疗，让健康更简单!</view>
+        <view class="desc" ><text></text></view>
+    </view>
+
+
+    <view class="button-wrapper">
+        <button bindtap="request">请求数据</button>
+    </view>
+         
+         <view class="turn">
+         <navigator url="porosty/porosty" >
+          <text class="widget__name">我是跳转测试按钮</text>
+          </navigator>
+         </view>
+ <block>
+          <view class="page-body-text">
+            
+            <text>{{result }}</text>
+          </view>
+        </block>
+</view>

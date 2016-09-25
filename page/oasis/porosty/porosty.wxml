@@ -1,0 +1,10 @@
+<view class="porosty">
+     <view class="head">
+        <view class="title">泓华医疗，让健康更简单!</view>
+        <view class="desc">我的泓华医疗</view>
+    </view>
+    <view class="text">
+        <button >请求数据</button>
+    </view>
+         
+</view>
